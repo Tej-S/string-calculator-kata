@@ -1,5 +1,0 @@
-c:\users\aundre.jess\documents\visual studio 2015\Projects\StringCalculator\StringCalculator\bin\Debug\StringCalculatorKata.dll
-c:\users\aundre.jess\documents\visual studio 2015\Projects\StringCalculator\StringCalculator\bin\Debug\StringCalculatorKata.pdb
-c:\users\aundre.jess\documents\visual studio 2015\Projects\StringCalculator\StringCalculator\obj\Debug\StringCalculatorKata.csprojResolveAssemblyReference.cache
-c:\users\aundre.jess\documents\visual studio 2015\Projects\StringCalculator\StringCalculator\obj\Debug\StringCalculatorKata.dll
-c:\users\aundre.jess\documents\visual studio 2015\Projects\StringCalculator\StringCalculator\obj\Debug\StringCalculatorKata.pdb
